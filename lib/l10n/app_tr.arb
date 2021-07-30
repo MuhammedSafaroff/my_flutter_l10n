@@ -1,0 +1,9 @@
+{
+    "@@locale": "tr",
+  
+    "welcomeTitle": "Merhaba\nMuhammed Safaroff",
+    "signIn": "Giriş yap",
+    "login": "Login",
+    "password": "Şifre"
+    
+  }

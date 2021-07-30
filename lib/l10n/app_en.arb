@@ -1,0 +1,13 @@
+{
+    "@@locale": "en",
+  
+    "welcomeTitle": "HELLO\nMuhammed Safaroff",
+    "@welcomeTitle": {},
+    "signIn": "Sign in",
+    "@signIn": {},
+    "login": "Login",
+    "@login": {},
+    "password": "Password",
+    "@password": {}
+      
+  }
