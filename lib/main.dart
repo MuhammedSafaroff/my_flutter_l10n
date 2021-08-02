@@ -5,7 +5,7 @@ import 'package:my_flutter_l10n/presentation/pages/home_page.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 void main() {
-  runApp(BlocProvider(create: (context) => LanguageCubit(), child: MyApp()));
+  runApp(BlocProvider(create: (context) => LanguageCubit()..initialLanguage(), child: MyApp()));
 }
 
 class MyApp extends StatelessWidget {
